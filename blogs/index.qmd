@@ -1,0 +1,20 @@
+---
+title: "PQHS 432 Blog Post"
+---
+
+## Rethinking Statistical Significance in the Age of Genomics
+
+As I prepare to pursue graduate research in genomics, reading Moving to a World Beyond “p < 0.05” from The American Statistician reshaped how I think about statistical inference and its role in biomedical research. In a field like genomics, where complexity and variability are the norm, these insights feel especially relevant. Here are key lessons I took from the article that I plan to carry with me into my future work:
+
+## Statistical significance does not equal scientific importance
+
+In genomics, where massive datasets often yield extremely small p-values, it’s tempting to equate statistical significance with biological relevance. But I learned that a low p-value doesn’t prove an effect is real, important, or replicable. Rather, it reflects compatibility with a statistical model under certain assumptions. This reminds me to always ask whether a result makes sense logically, not just statistically.
+
+## The p < 0.05 threshold creates harmful false dichotomies
+
+The idea that 0.049 is meaningful and 0.051 is not, is especially problematic in genomics, where thousands of tests are performed simultaneously. I now see how relying on arbitrary cutoffs can lead to biased reporting, missed discoveries, and overhyped findings. In my research, I want to move beyond this binary mindset and interpret results in a more context-aware way.
+
+## Embracing uncertainty and thoughtful analysis leads to better science
+
+I’ve come to understand that acknowledging uncertainty isn’t a weakness, it’s a scientific strength. As I design and analyze genomic studies, I want to lean into approaches that prioritize transparency, reproducibility, and scientific insight over statistical rituals. This article gave me a clearer vision for the kind of researcher I want to be in graduate school.
+

@@ -1,0 +1,46 @@
+---
+title: "Welcome"
+about:
+  template: jolla
+  id: about-block
+  image: "img/profile.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/carly-dacosta/
+    - icon: envelope
+      text: Email
+      href: mailto:carly.dacosta@case.edu
+    - icon: file-text
+      text: Download CV
+      href: files/CV.pdf
+---
+
+::: {#about-block}
+:::
+
+## Welcome!
+
+I'm a Research Technician I & PREP Scholar at Case Western Reserve University School of Medicine, focusing on genetics and biomedical research. My research centers on identifying genetic contributors to Alzheimer's disease risk and protection, with particular emphasis on founder (Amish) and diverse (African American) populations.
+
+## Current Research
+
+I'm currently working on a NIH/NIA-funded project investigating genetic risk score distributions for post-partum depression (PPD) and major depressive disorder (MDD) in relation to late-onset Alzheimer's disease.
+
+## Education
+
+-   **Case Western Reserve University** (2023-Present)\
+    Post-baccalaureate Research Education Program (PREP)
+
+-   **San Diego State University** (2018-2022)\
+    B.A. Interdisciplinary Studies (Biology, Public Health, & Women's Studies), Cum Laude
+
+-   **San Diego Mesa College** (2015-2018)\
+    A.A. Kinesiology & Nutrition, High Honors
+
+## Recent Honors
+
+-   NIH Diversity Supplement Recipient (2024)
+-   PREP Scholar of the Year, Case Western Reserve University (2024)
+-   Lange Symposium Travel Award, UCLA (2024)
+-   CasePREP Scholar (2023-Present)

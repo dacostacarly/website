@@ -1,0 +1,63 @@
+/* Base styles */
+:root {
+  --primary-color: #2c3e50;
+  --accent-color: #3498db;
+  --text-color: #333333;
+  --background-color: #ffffff;
+}
+
+body {
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation */
+.navbar {
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Profile section */
+.about-block {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.about-block img {
+  border-radius: 50%;
+  max-width: 200px;
+  border: 3px solid var(--accent-color);
+}
+
+/* Content containers */
+.content-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Footer */
+.footer {
+  background-color: #f8f9fa;
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
